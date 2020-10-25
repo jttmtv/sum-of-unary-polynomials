@@ -7,7 +7,7 @@ Input：
 ④(0 <= n, m <= 1000, all exponents are in the range [0,10^9], all coefficients are in the range [-10000, 10000])  
 Output: For each message, print the polynomial with the same syntax as the sample shows.  
 for instance:  
-your input:
+your input:  
 1  
 2  
 2 2  
