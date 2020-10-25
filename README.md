@@ -16,19 +16,12 @@ for instance:
 your input:
 
 1
-
 2
-
 2 2
-
 3 3
-
 2
-
 1 2
-
 2 4
-
 
 your output:
 
