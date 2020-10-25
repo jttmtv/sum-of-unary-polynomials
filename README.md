@@ -9,7 +9,6 @@ Input：
 Output:  
 
 For each message, print the polynomial with the same syntax as the sample shows.    
-for instance:  
 
 1  
 2  
