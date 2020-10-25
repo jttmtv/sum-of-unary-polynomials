@@ -14,7 +14,6 @@ Output: For each message, print the polynomial with the same syntax as the sampl
 for instance:
 
 your input:
-
 1
 2
 2 2
@@ -24,5 +23,4 @@ your input:
 2 4
 
 your output:
-
 3x^2+3x^3+2x^4
