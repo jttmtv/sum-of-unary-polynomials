@@ -1,4 +1,4 @@
-# Sum of Unary Polynomials
+# Sum of unary polynomials
 Input：
 
 ①First line will be a positive integer T (T<=100), which is the number of messages.  
